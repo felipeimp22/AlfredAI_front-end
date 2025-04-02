@@ -1,5 +1,8 @@
 # ALFRED.AI - Restaurant Assistant Frontend
+### Disclaimer
 
+I know the code may be messy and not following all best practices, but this was an 8 hour challenge.
+---
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF)
