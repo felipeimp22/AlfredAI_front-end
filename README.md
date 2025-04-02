@@ -2,6 +2,8 @@
 ### Disclaimer
 
 I know the code may be messy and not following all best practices, but this was an 8 hour challenge.
+challenge. this is the other repo of this challenge:
+https://github.com/felipeimp22/AlfredAI_Restaurant_assistant
 ---
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB)
